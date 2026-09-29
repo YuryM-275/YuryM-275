@@ -1,16 +1,18 @@
-## Hi there 👋
+## Привет! Я Юрий 👋
 
-<!--
-**YuryM-275/YuryM-275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Повышаю личную продуктивность при помощи ИИ.
+Строю персонального AI-ассистента под свои задачи,
+превращаю рутину в автоматизацию и учусь кодить вместе с Claude Code.
 
-Here are some ideas to get you started:
+### 🚀 Чем занят
+- 🏗️ Осваиваю вайбкодинг на практике: от простых страниц до AI-пайплайнов
+- 🤖 Автоматизация рутины: Telegram-боты, планировщики, MCP-серверы
+- ✍️ Читаю больше и лаконичнее пишу с помощью ИИ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Проекты
+- **[morning-digest](https://github.com/YuryM-275/morning-digest)** —
+  персональный утренний дайджест Telegram-новостей:
+  Claude Code собирает и редактирует газету автоматически
+
+### 🌱 Сейчас
+- Превращаю личные автоматизации в аккуратные открытые проекты
